@@ -1,0 +1,10 @@
+scikit-learn
+bs4
+nltk
+fuzzywuzzy
+dask
+gensim==4.3.0
+tqdm
+distance
+scipy==1.10.1
+streamlit
